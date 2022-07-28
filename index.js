@@ -18,7 +18,7 @@ const questions = [
     {
         type: 'confirm',
         name: 'tableofContents',
-        message: 'Would you like to include a Table of Contents for your project? (y/n)',
+        message: 'Would you like to include a Table of Contents for your project?',
         default: true
     },
     {
@@ -42,6 +42,11 @@ const questions = [
         name: 'contribute',
         message: 'Provide any other developers who may have contributed to this project.'
     },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'Be sure to test your application!'
+    }
 ];
 
 // TODO: Create a function to write README file

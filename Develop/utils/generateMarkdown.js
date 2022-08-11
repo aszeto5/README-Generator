@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license == "None") {
-    return `![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)`
+    return `![${license}](https://img.shields.io/badge/${license}-2.0-orange)`
   } else {
     return ""
   }

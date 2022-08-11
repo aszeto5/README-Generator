@@ -21,5 +21,8 @@ npm install
 ## Contribution
 
 
-## Tests
+## Application Preview:
+* Deployed Applicaiton: 
+* Screen Record: 
 
+[Untitled_ Aug 10, 2022 7_44 PM.webm](https://user-images.githubusercontent.com/100250064/184056682-7630dacd-bbc0-4efc-b526-cce7a6fbd49e.webm)
